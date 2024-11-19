@@ -24,9 +24,7 @@ img[alt~="center"] {
 .fa-linkedin { color: blue; }
 .fa-window-maximize { color: skyblue; }
 
-svg[id^="mermaid-"] {
-  min-width: 960px;
-  max-width: 960px;
-  min-height: 360px;
-  max-height: 600px;
+section.invert h1 {
+  text-align: center;
 }
+

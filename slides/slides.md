@@ -12,6 +12,12 @@ Presenter: **Csaba Tamas**
 
 >  A sportsman’s real life practical advices for JavaScript Developers
 
+<!--
+こんにちは, everyone! Thank you for joining me today. My name is Csaba Tamas, and I’m here to share insights from two seemingly unrelated worlds—software development and competitive sports.
+
+Today, I’ll share 10 practical, sports-inspired health tips to help you stay fit and code better. And don’t worry—I’ve included some JavaScript magic to make it relatable for all of us!
+ -->
+
 ---
 
 ## About me 🧔🏻‍♂️
@@ -23,18 +29,39 @@ Presenter: **Csaba Tamas**
 
 ![bg right:63% ](./img/fuji.jpg)
 
+<!--
+Let me quickly introduce myself.
+👨‍💻 I’m a frontend architect from Hungary 🇭🇺 with nore than 10 years of experience, mostly I worked with angular projects, this is reason why I was able to contribute to the angular source code, but nowdays I mostly work with react based technoligies.
+🏋️‍♀️ Outside of coding, I’ve been actively involved in competitive powerlifting. I rank around the middle of the leaderboard, with a total lift just over 500kg.
+
+I’m really passionate about sports and all things related to health. I could talk about them for hours!
+-->
+
 ---
 
 # Why ligthning talk? ⚡️
 
 - It is a JavaScript conference, this topic is not so related to JS world, but I tried to put the maxium amount of programer content to it (dark slides).
 - I can talk about this topic for hours, but short talks are more likely to keep the audience's attention from start to finish.
-- Lightning talks are like a power workout, brief but impactful.
 - I try to give you the most of the takeaways what I can
+
+<!--
+But today it is Lightning talk, but why?
+Because this is a JavaScript conference, and I know not all of you are interested in the topic. But I’ve tried to collect  lot of interesting statistics and information (I spent two days collecting only the studies!). My goal is to give you as many takeaways as I can, if you are interedted only JS just
+dark slides.
+-->
 
 ---
 # Japan and Hungary language in common
 ![h:600px center](./img/japan-and-hungary.png#center)
+
+<!--
+
+Fun fact: Japanese and Hungarian languages share some structural similarities. For example, we both use family name first, followed by the given name—so, Tanaka Hiroshi instead of Hiroshi Tanaka, or Kovács István instead of István Kovács.
+
+Another shared trait is how we format dates. Both Japan and Hungary use the year-month-day syntax, like 2024-11-17, which aligns with ISO standards. It’s a small, practical detail but reflects an organized and logical approach shared by both cultures.
+
+-->
 
 ---
 <!-- _class: invert -->
@@ -45,6 +72,13 @@ Presenter: **Csaba Tamas**
 - You can download the my slides from  [JSConf.JP](https://jsconf.jp)
 
 ![bg right:40% height:100](./img/marp-dark.png)
+
+<!--
+
+By the way, these slides are made with Marp, a TypeScript-based framework created by Japanese developer Yuki Hattori.
+
+You can download these slides later from JSConf.JP.
+-->
 
 ---
 
@@ -60,6 +94,15 @@ Presenter: **Csaba Tamas**
 - More strength more muscle helping which help you in the weight management
 - **Reduce mortality**.
 
+<!--
+Let’s start with my favorite topic strength.
+Did you know the grip strength of today’s average teenagers is weaker than that of women in the 1970s? Grip strength isn’t just a gym stat—it’s a marker of longevity.
+
+A 2020 study found that people with lower grip strength were 20% more likely to die prematurely. Why? Strength improves balance, reduces injuries, and supports better health overall.
+
+Improving grip strength helps provide better support for your wrists and hands, reducing the risk of injuries. After all, your fingers are the tools you use to write code.
+
+ -->
 
 ---
 # How we can improve our strength?
@@ -70,18 +113,30 @@ First advice: **Just lift weights.**
 
 <!-- _footer: Japan’s hidden strength culture you didn’t know of - Chikara Ishi 力石 https://www.youtube.com/watch?v=3CEjK9haKSQ -->
 
+<!--
+My advice? Just lift weights.
+It doesn’t have to be heavy; consistency is key. You can even start with bodyweight exercises or resistance bands. The idea is to gradually challenge your muscles.
+ -->
+
 ---
 ![bg contain](./img/adjustable-kettlebell.webp)
 
 Adjustable kettlebell
 From: 3,4-18kg
 
-<!-- Perfect for develop back muscles -->
+<!-- If you’re looking for a simple tool to get started, try adjustable kettlebells. They’re compact, versatile, and perfect for a quick home workout. As developers, efficiency matters, and this is the Swiss Army knife of fitness equipment, you can reach the maximum performance what you need. -->
 
 ---
 <!-- _class: invert -->
+# Speed up the build with RSPack and Farmfe 🚀
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-Maybe good place for rsbuild and farmfe
+![bg h:70%](./img/rspack.png)
+![bg h:70%](./img/farmfe.png)
+
+<!--
+I started to talk about tools it is a good place to show you RSPack and Farmfe, two exciting tools from the JavaScript ecosystem RSPack is a Rust based replacement of webpack and farmfe is rust based replacement of vite
+-->
 
 ---
 
@@ -90,6 +145,12 @@ Maybe good place for rsbuild and farmfe
 > - **Statistic**: Office workers with proper ergonomic setups report a 15% reduction in pain and a 12% productivity boost (*HBR*).
 
 so the wrong sitting is the problem, but if you do in ergonomic setups and get up frequently it is not a health issue.
+
+<!--
+Sitting itself isn’t harmful—it’s how you sit that makes the difference. Poor posture leads to back and neck pain, affecting 50% of tech workers.
+
+Invest in an ergonomic setup. A well-designed chair, proper desk height, and frequent breaks reduce pain by 15% and improve productivity by 12%. Remember, posture affects not just your comfort but also your focus and efficiency.
+ -->
 
 ---
 
@@ -100,6 +161,12 @@ so the wrong sitting is the problem, but if you do in ergonomic setups and get u
 - Physically active men had 46% higher sperm concentration and 44% more total sperm compared to sedentary men, based on a study of 377 participants.
 
 - A study published in Human Reproduction noted that Ssperm concentration declined by 42% between 2000 and 2017 in men seeking fertility treatment, with sedentary lifestyles and heat exposure as major contributors.
+
+<!--
+Did you know prolonged sitting increases scrotal temperature, impairing sperm production? Physically active men have significantly better reproductive health. This isn’t just about fertility—it’s about maintaining overall body function.
+
+If you can’t stand up every hour, walk when possible, or integrate movement into your routine. Even small adjustments make a big impact.
+-->
 
 ---
 
@@ -118,6 +185,12 @@ so the wrong sitting is the problem, but if you do in ergonomic setups and get u
  Ideal break :
   - For eyes: Every 20 secound break every 20 minutes look 20m away
   - For every other aspect: 5-10 minutes in every hours
+
+<!--
+Screen time takes a toll on your eyes. 70% of tech workers experience symptoms of Computer Vision Syndrome, including headaches and dry eyes.
+
+Here’s my 4th tip: Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds. For overall health, take a 5-10 minute break every hour.
+-->
 
 ---
 <!-- _class: invert -->
@@ -160,16 +233,30 @@ setInterval(() => {
 Athletes need 8–10 hours per night for optimal recovery. Developers benefit similarly for focus and creativity, but not only the quantity is important.
 It is really important to take time in Deep sleep (Stage 3) and not to stop it.
 
+<!--
+Sleep is the unsung hero of productivity. Athletes need 8–10 hours of sleep for recovery, and developers benefit similarly.
+Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30%.
+
+Use apps like SleepCycle to track your sleep. Prioritize quality over quantity to wake up refreshed and focused.
+ -->
+
 ---
 
 # How can I improve my sleep quality? (5th tip):
 Do not use the default alarm clock use **SleepCycle** or any other app to track and analyze sleep data.
 
 ---
-
 <!-- _class: invert -->
+## Wallaby Immediate test feedback in your IDE as-you-type
+<br><br><br><br><br><br><br><br><br><br><br>
 
-Maybe good place for wallabyjs
+![bg 50%](./img/wallaby.png)
+
+<!--
+Let’s talk about testing efficiency. Wallaby.js is a game-changer for developers because it provides real-time feedback on your tests directly in your IDE.
+
+As you write or modify code, Wallaby instantly highlights which tests pass or fail—no need to switch contexts or run your test suite manually. It’s like having a coach constantly analyzing your form and providing corrections on the spot.
+-->
 
 ---
 
@@ -181,6 +268,17 @@ Maybe good place for wallabyjs
 > Burnout rates among developers have increased by 18% in the last five years (*Gallup Workplace Study, 2023*).
 
 > Overwork increases the risk of depression by 60% (*Journal of Occupational Health*).
+
+<!--
+Japan’s culture of overwork has led to burnout becoming a significant issue. 57% of developers here work more than 8 hours a day, and burnout rates have increased by 18% in five years.
+
+How do we tackle this? Sports teach us to:
+
+Set clear goals: Prioritize what matters.
+Maintain consistency: Sustainable habits beat sporadic sprints.
+Value recovery: Rest isn’t optional—it’s essential.
+Work as a team: Share the workload and support each other.
+-->
 
 ---
 
@@ -205,6 +303,13 @@ Maybe good place for wallabyjs
   - Collaborate on open-source projects to foster connections.
   - Find local groups for developers or fitness enthusiasts.
 
+
+<!--
+Loneliness is a hidden epidemic, especially in Japan, where 15% of adults feel socially isolated. Research equates its health impact to smoking 15 cigarettes a day.
+
+For developers, isolation worsened during remote work. My advice? Engage in meetups, open-source projects, or fitness groups to build connections. A strong network improves both mental and professional well-being.
+-->
+
 ---
 
 ### Another Key Takeaway (8th advice):
@@ -216,19 +321,41 @@ Not the count of the connections metters.
 
 ---
 # Food
+> The Japanese diet is linked to a 15% lower risk of early death compared to Western diets (*BMJ, 2016*).
 
-WIP
+> Japan has one of the highest life expectancies globally (85 years) due to its nutrient-rich traditional meals (*WHO, 2023*).
+
+<br>
+
+9th advice: **Just eat your traditional meals.**
+
+![bg right:40%](./img/food.jpg)
+
+<!--
+The Japanese diet is a global benchmark for health. Rich in fish, vegetables, and fermented foods, it’s linked to a 15% lower risk of early death.
+
+My advice? Stick to nutrient-dense, whole foods. If possible, incorporate elements of the Japanese diet into your routine.
+ -->
 
 ---
 
 ### My final takeaway (10th advice):
 # Life is like to squat, harmony between mobility and stability
 
+<!--
+Here’s my final takeaway: Life is like a squat—it’s about balance. Balancing mobility and stability is key in both sports and life. Similarly, balancing work and health leads to sustainable success.
+-->
 
 ---
 
-# Thank you very much 🚄
+# Thank you very much!
 
 ありがとう ございます
 
 # 🙋🏻‍♀️ Questions? 🙋🏻
+
+![bg right](./img/crane-and-turtle.jpg)
+
+<!--
+Thank you all for listening! Remember, taking care of your health isn’t just a personal investment—it’s a professional one too. I’m happy to answer any questions you have.
+-->

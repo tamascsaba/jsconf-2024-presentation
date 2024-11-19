@@ -52,8 +52,10 @@ dark slides.
 -->
 
 ---
-# Japan and Hungary language in common
-![h:600px center](./img/japan-and-hungary.png#center)
+#  Japan and Hungary language in common
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+![bg h:500px](./img/japan-and-hungary.png#center)
 
 <!--
 

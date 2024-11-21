@@ -13,9 +13,10 @@ Presenter: **Csaba Tamas**
 >  A sportsman’s real life practical advices for JavaScript Developers
 
 <!--
-こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today. My name is Csaba Tamas, and I’m here to share insights from two seemingly unrelated worlds—software development and competitive sports.
-
-Today, I’ll share 10 practical, sports-inspired health tips to help you stay fit and code better. And don’t worry—I’ve included some JavaScript magic to make it interesting for all of us!
+こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today.
+My name is Csaba Tamas, Today, I would like to share my real life practical advices
+to help you stay fit and code better.
+And don’t worry—I’ve included some JavaScript magic to make it interesting for all of us!
  -->
 
 ---
@@ -32,9 +33,11 @@ Today, I’ll share 10 practical, sports-inspired health tips to help you stay f
 <!--
 Let me quickly introduce myself.
 👨‍💻 I’m a frontend architect from Hungary 🇭🇺 with more than 10 years of experience, mostly I worked with angular projects, but nowdays I also work with react based technoligies.
-🏋️‍♀️ Outside of coding, I’ve been actively involved in competitive powerlifting and natual bodybuilding. Powerlifting is the combination of the main bodybuilding excercises. (squat, deadlift and benchpress).
+🏋️‍♀️ Outside of coding, I’ve been actively involved in competitive powerlifting and natual bodybuilding.
+Powerlifting is the combination of the main bodybuilding excercises. (squat, deadlift and benchpress).
 
- I rank around the middle of the leaderboard, with a total lift just over 500kg.
+I can tell I have quite good competition results.
+I rank around the middle of the hungarian leaderboard, with 500kg total.
 
 I’m really passionate about any health related topic. I could talk about them for hours!
 -->
@@ -43,30 +46,18 @@ I’m really passionate about any health related topic. I could talk about them 
 
 # Why ligthning talk? ⚡️
 
-- It is a JavaScript conference, this topic is not so related to JS world, but I tried to put the maxium amount of programmer content to it (dark slides).
-- I can talk about this topic for hours, but short talks are more likely to keep the audience's attention from start to finish.
+- It is a JavaScript conference, this topic is not so related to JS world, but I tried to add the maxium amount of developer content to it (dark slides).
 - I try to give you the most of the takeaways what I can
+- I would like to share my own experiances, how I was able to improve my life with some small changes. I hope you will like it. 🤗
 
 <!--
 But today it is "only" kightning talk, but why?
-Because this is a JavaScript conference, and I know not all of you are interested in the topic. But I’ve tried to collect lot of interesting statistics and information (I spent two days collecting only the studies!).
+Because this is a JavaScript conference, and I know not all of you are interested in the topic. But I’ve tried to collect lot of interesting statistics and information.
+
+I would like to share my own experiances, how I was able to improve my life with some small changes.
 
 My goal is to give you as many takeaways as I can,
 if you are interedted only JS just follow the dark slides.
--->
-
----
-#  Japan and Hungary language in common
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-![bg fit](./img/japan-and-hungary.png#center)
-
-<!--
-
- I couldn't resist starting with a fun topic: You know Japanese and Hungarian languages share some structural similarities. For example, we both use family name first, followed by the given name—so, Tanaka Hiroshi instead of Hiroshi Tanaka, or Kovács István instead of István Kovács.
-
-Another shared trait is how we format dates. Both Japan and Hungary use the year-month-day syntax, like 2024-11-17, which aligns with ISO standards. It’s a small, practical detail but reflects an organized and logical approach shared by both cultures.
-
 -->
 
 ---
@@ -88,7 +79,21 @@ You can download these slides later from JSConf.JP.
 
 ---
 
-# Let's start with my favorite topic: STRENGTH
+<!-- _class: invert -->
+
+# <!--fit --> MarpAI.app
+Feel free to join if you are interedted.
+
+![bg right:40% height:100](./img/marp-dark.png)
+
+<!--
+
+I have just started to develop project which is an online presentation editor based on Mar.
+-->
+
+---
+
+# Let's start with my favorite topic: STRENGTH 🏋️‍♀️
 > The average grip strength of **women** from the **1970s** is comparable to that of **teeneager boys today**.
 
 > In the 2020 [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7877981/) shows the people with lower grip strength were more likely (20%) to die of any cause compared to people with higher grip strength.
@@ -106,16 +111,17 @@ Let’s start with my favorite topic strength.
 Did you know the grip strength of today’s average teenagers is weaker than that of women in the 1970s?
 
 So we became weaker and weaker time by time.
-But why this grip strength or the overall strength important:
+But why the strength important:
 
-A 2020 study found that people with lower strength were 20% more likely to die prematurely. Why? Strength improves balance, reduces injuries, and supports better health overall.
-
-Improving grip strength helps provide better support for your wrists and hands, reducing the risk of injuries. Keeping your fingers healthy is primary, those are the tools to write code.
+A 2020 study found that people with lower strength were 20% more likely to die prematurely.
+Strength improves balance, reduces injuries.
+Strength helps you to live a better quality life. Everything became easier.
+Earlier I had a lot of back problem, but after I started train it became much better.
 
  -->
 
 ---
-# How can we improve our strength?
+# How can we improve our strength? 🏋️‍♀️
 
 First advice: **Just lift weights.**
 ![bg right ](./img/stone-lifting.jpg)
@@ -125,7 +131,8 @@ First advice: **Just lift weights.**
 
 <!--
 My advice? Just lift weights.
-It doesn’t have to be heavy; consistency is key. You can even start with bodyweight exercises or resistance bands. The idea is to gradually challenge your muscles.
+It doesn’t have to be heavy; consistency is key. You can even start with bodyweight exercises or resistance bands.
+It is not necesary to go the the gym you know one of the acciant sport is the traditional japanese stone lifting.
  -->
 
 ---
@@ -138,86 +145,65 @@ From: 3,4-18kg
 
 ---
 <!-- _class: invert -->
-# Speed up the build with RSPack and Farmfe 🚀
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+# Howto calculate your maximum performance with JS
 
-![bg h:70%](./img/rspack.png)
-![bg h:70%](./img/farmfe.png)
+```javascript
+const weight = 100; // Weight in kg
+const reps = 5; // Repetitions
 
-<!--
-I started to talk about tools it is a good place to show you RSPack and Farmfe, two exciting tools from the JavaScript ecosystem RSPack is a Rust based replacement of webpack and farmfe is rust based replacement of vite
--->
+function calculate1RM(weight, reps) {
+  return {
+    epley: weight * (1 + reps / 30),
+    brzycki: weight * (36 / (37 - reps)),
+    mcglothin: weight * (100 / (101.3 - 2.67123 * reps)),
+    lombardi: weight * Math.pow(reps, 0.10),
+    mayhew: (100 * weight) / (52.2 + 41.9 * Math.exp(-0.055 * reps))
+  }
+}
+
+console.log(calculate1RM(weight, reps));
+/*
+{
+  epley : 116.66666666666667,
+  brzycki: 112.5,
+  mcglothin: 113.70891767872342,
+  lombardi: 117.4618943088019,
+  mayhew : 119.01068045151959
+}
+/*
+```
 
 ---
 
-# Did you know sitting is a natural positon, but...
-> - **Study**: Poor posture leads to back and neck pain, affecting 50% of tech workers -> [American Chiropractic Association](https://www.acatoday.org/news-publications/trending-in-the-media-and-at-home-musculoskeletal-pain/).
-> - **Statistic**: Office workers with proper ergonomic setups report a 15% reduction in pain and a 12% productivity boost -> [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8010160/).
+# Perfect workstation for perfect performance 💪
 
-The problem lies in poor sitting posture, but by using ergonomic setups and standing up frequently, you're doing a much better job.
+> Office workers with proper ergonomic setups report a 15% reduction in pain and a 12% productivity boost -> [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8010160/).
+
+> Poor posture leads to back and neck pain, affecting 50% of tech workers -> [American Chiropractic Association](https://www.acatoday.org/news-publications/trending-in-the-media-and-at-home-musculoskeletal-pain/).
+
+> 70% of tech workers experience computer vision syndrome -> [American Optometric Association](https://www.aoa.org/about-the-aoa/press-room/press-releases/most-americans-experience-digital-eye-strain-from-overexposure-to-computers-according-to-survey).
+
+> Regular movement boosts **creativity** by 81% (*Stanford University, 2014*).
+
+![bg right:35%](./img/workstation.jpg)
 
 <!--
-Sitting itself isn’t harmful—it’s how you sit that makes the difference. Poor posture leads to back and neck pain, affecting 50% of tech workers.
+The right side this is my workstation. As you can see I using a standing table with a walking pad.
+It is really important to setup the proper desk and monitor height of the to make it comfortable.
 
-Invest in an ergonomic setup. A well-designed chair, proper desk height, and frequent breaks reduce pain by 15% and improve productivity by 12%. Remember, posture affects not just your comfort but also your focus and efficiency.
+The best if the monitor center is front of you eyes and you can lie your fingers to the keyboard.
+
  -->
 
 ---
 
-# Sitting and mens health 🍆
-
-> Research shows that prolonged sitting increases scrotal temperature by 2-3°C, impairing sperm production as the testes struggle to maintain the ideal temperature of about 34°C. -> [PubMed](https://pubmed.ncbi.nlm.nih.gov/9756281/#:~:text=This%20temperature%20dependence%20has%20been,in%20scrotum%20or%20testicle%20temperature)
-
-> Physically active men have 46% higher sperm concentration and 44% more total sperm compared to sedentary men, based on a study of 377 participants. -> [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/02/men-who-lift-heavy-objects-have-higher-sperm-counts/)
-
-> A study published in Human Reproduction noted that Ssperm concentration declined by 42% between 2000 and 2017 in men seeking fertility treatment, with sedentary lifestyles and heat exposure as major contributors. -> [PubMed](https://pubmed.ncbi.nlm.nih.gov/30389382/)
-
-
-<!--
-Did you know prolonged sitting increases scrotal temperature, impairing sperm production? Physically active men have significantly better reproductive health. This isn’t just about fertility—it’s about maintaining overall body function.
-
-If you can’t stand up every hour, walk when possible, or integrate movement into your routine. Even small adjustments make a big impact.
--->
-
----
-# Active recovery: walk it off 🚶‍♂️
-
-> A study published in the *Journal of Behavioral Medicine* found that **brief walks** improve mood and reduce mental fatigue by up to 60%.
-
-> Regular movement boosts **creativity** by 81% (*Stanford University, 2014*).
-
-> Walking for just **10 minutes** increases energy levels and reduces stress, according to the *American Psychological Association*.
-
-### Sports Insight:
-Athletes incorporate **light exercises** like walking to enhance recovery and prevent fatigue.
-
-### Developer Tip:
-After intense coding sessions, take a **5–10 minute walk**. Fresh air and movement can reset your brain, reduce eye strain, and improve focus.
-
-<!--
-Active recovery isn’t just for athletes—developers can benefit too! Athletes use light exercises like walking to recover, and studies show it works. A Journal of Behavioral Medicine study found brief walks improve mood and cut mental fatigue by 60%. Stanford University research shows it boosts creativity by 81%.
-
-After intense coding sessions, take a 5–10 minute walk. It refreshes your brain, reduces eye strain, and recharges your energy. A simple habit, but it makes a huge difference!
--->
-
----
- # Key takeaways (2nd, 3th):
-
- **If you find yourself too focused, try standing while working,
- and if possible, use a walking pad to boost your daily activity.**
-
----
-
-# Protect your vision
->  70% of tech workers experience computer vision syndrome -> [American Optometric Association](https://www.aoa.org/about-the-aoa/press-room/press-releases/most-americans-experience-digital-eye-strain-from-overexposure-to-computers-according-to-survey).
-
-##  What can I do the take ideal breaks?
- 4th advice: Use break reminder apps like:
- -  Time Out, Breaktimer,  Pandan, Zenbreak, Breather, TotalPause or Stretchly
-
+#  How much is the ideal breaks? ⏰
  Ideal break :
   - For eyes: Every 20 minutes you should have a break and for 20 secounds 20 feet away, like looking out of the window
   - Take a 5-10 minute break every hour to stretch, walk around, hydrate, or simply relax your mind.
+
+ Use break reminder apps like:
+ -  Time Out, Breaktimer,  Pandan, Zenbreak, Breather, TotalPause or Stretchly
 
 **Small, consistent recovery breaks = Better performance in the long run!**
 
@@ -278,23 +264,9 @@ Use apps like SleepCycle to track your sleep. Prioritize quality over quantity t
 
 ---
 
-# How can I improve my sleep quality? (5th tip):
+# How can I improve my sleep quality?:
 Do not use the default alarm clock. Instead use **SleepCycle**  or any other app to track and analyze sleep data.
 
----
-<!-- _class: invert -->
-## Wallaby Immediate test feedback in your IDE as-you-type
-<br><br><br><br><br><br><br><br><br><br><br>
-
-![bg 50%](./img/wallaby.png)
-
-<!--
-Let’s talk about testing efficiency. Wallaby.js is a game-changer for developers because it provides real-time feedback on your tests directly in your IDE.
-
-As you write or modify code, Wallaby instantly highlights which tests pass or fail—no need to switch contexts or run your test suite manually. It’s like having a coach constantly analyzing your form and providing corrections on the spot.
--->
-
----
 
 # Let's take a look at one of the biggest health issues in Japan 🇯🇵
 ## Overwork and Burnout 🔥
@@ -318,76 +290,35 @@ Work as a team: Share the workload and support each other.
 
 ---
 
-## How sports mentality solves this (6th advice collection):
+## How sports mentality solves this:
 1. **Set clear goals**: Like athletes, prioritize measurable daily goals and set boundaries for work hours.
-2. **Consistency, not intensity**: Sustainable habits beat all-nighters. Use structured techniques like Pomodoro.
-3. **Prioritize recovery**: Athletes invest in rest. Developers should too, using tools like **Calm** for mental recovery.
-4. **Collaborate like a team**: Share the workload to avoid burnout and foster a supportive environment.
-5. **Think long-term**: Olympians train for years; developers should focus on sustainable career growth.
+2. **Consistency, not intensity**:  Use structured techniques like Pomodoro.
+3. **Prioritize recovery**: Athletes invest in rest. We should too, using tools like **Calm** for mental recovery.
+5. **Think long-term**: Life is a marathon not a marathon. We should focus on sustainable long-term growth.
+
 
 ---
-
-# Teamwork makes the dream work
->  Japan ranks among the highest for reported loneliness, with 15% of adults feeling socially isolated (*NHK Survey, 2023*).
-
->  Loneliness is as damaging to health as smoking **15 cigarettes** a day (*Cigna Study, 2018*).
-
-## Practical Tips:
-  - Engage in local tech meetups or coding boot camps.
-  - Collaborate on open-source projects to foster connections.
-  - Find local groups for developers or fitness enthusiasts.
-
-
-<!--
-Loneliness is a hidden epidemic, especially in Japan, where 15% of adults feel socially isolated. Research equates its health impact to smoking 15 cigarettes a day.
-
-For developers, isolation worsened during remote work. My advice? Engage in meetups, open-source projects, or fitness groups to build connections. A strong network improves both mental and professional well-being.
--->
-
----
-
-### Another Key Takeaway (7th advice):
-
-It's not the number of connections that matter, but the quality.
-
-Having just a few meaningful relationships is enough.
-
-<!--
-It is not the count of the connections that matters, but the quility.
-It is enought to have few and valuable relations.
-
-
-I highly recommend Robert Waldinger's TED talk—it's one of the best TED talks available.
-In it, he shares insights from the longest-running study on happiness, showing that strong, meaningful relationships are key to living a fulfilling life. His talk offers powerful, research-backed advice on prioritizing connections over career success or material wealth, making it a must-watch for anyone interested in improving their overall well-being and happiness.
-
- -->
-
-![bg right:55%](./img/best-ted-talk.jpg)
-
-<!-- _footer: Robert Waldinger: What makes a good life? Lessons from the longest study on happiness: https://www.youtube.com/watch?v=8KkKuTCFvzI -->
-
----
-# Food
+# Food 🍜
 > The Japanese diet is linked to a 15% lower risk of early death compared to Western diets (*BMJ, 2016*).
 
 > Japan has one of the highest life expectancies globally (85 years) due to its nutrient-rich traditional meals (*WHO, 2023*).
 
 <br>
 
-9th advice: **Just eat your traditional meals.**
+**Just eat your traditional meals.**
 
 ![bg right:40%](./img/food.jpg)
 
 <!--
-The Japanese diet is a global benchmark for health. Rich in fish, vegetables, and fermented foods, it’s linked to a 15% lower risk of early death.
+The Japanese diet is a global benchmark for health.
 
 My advice? Stick to nutrient-dense, whole foods. If possible, incorporate elements of the Japanese diet into your routine.
  -->
 
 ---
 
-### My final takeaway (10th advice):
-# Life is like to squat, harmony between mobility and stability
+### My final takeaway:
+# Life is like to squat, find tha balance in your life.
 
 <!--
 Here’s my final takeaway: Life is like a squat—it’s about balance. Balancing mobility and stability is key in both sports and life. Similarly, balancing work and health leads to sustainable success.

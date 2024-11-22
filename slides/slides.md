@@ -63,10 +63,10 @@ if you are interedted only JS just follow the dark slides.
 ---
 <!-- _class: invert -->
 
-# Slides
+# Slides 🎞️
 - **Marp**: markdown presentation ecosystem from **Yuki Hattori** 🇯🇵
 - It is a powerful TypesSript based framework, that enables you to create stunning slides effortlessly.
-- You can download my slides from  [JSConf.JP](https://jsconf.jp)
+- You can download my slides from  [JSConf.JP](https://jsconf.jp) or scan the QR code
 
 ![bg right:40% width:90%](./img/qr-code.png)
 
@@ -145,8 +145,7 @@ From: 3,4-18kg
 
 ---
 <!-- _class: invert -->
-# Howto calculate your maximum performance with JS
-
+# How to calculate your maximum performance with JS
 ```javascript
 const weight = 100; // Weight in kg
 const reps = 5; // Repetitions
@@ -183,7 +182,7 @@ console.log(calculate1RM(weight, reps));
 
 > 70% of tech workers experience computer vision syndrome -> [American Optometric Association](https://www.aoa.org/about-the-aoa/press-room/press-releases/most-americans-experience-digital-eye-strain-from-overexposure-to-computers-according-to-survey).
 
-> Regular movement boosts **creativity** by 81% (*Stanford University, 2014*).
+> Regular movement boosts **creativity** by 81% -> [Stanford University, 2014](https://news.stanford.edu/stories/2014/04/walking-vs-sitting-042414).
 
 ![bg right:35%](./img/workstation.jpg)
 
@@ -264,7 +263,7 @@ Use apps like SleepCycle to track your sleep. Prioritize quality over quantity t
 
 ---
 
-# How can I improve my sleep quality?:
+# How can I improve my sleep quality?: 📈
 Do not use the default alarm clock. Instead use **SleepCycle**  or any other app to track and analyze sleep data.
 
 ---
@@ -286,7 +285,7 @@ I can tell I was also affected, but after the sport became really importent in m
 
 ---
 
-## How sports mentality solves this:
+## How sports mentality solves this: 🧘🏻
 1. **Set clear goals**: Like athletes, prioritize measurable daily goals and set boundaries for work hours.
 2. **Consistency, not intensity**:  I learnt to use structured techniques like Pomodoro.
 3. **Prioritize recovery**: I learnt invest in rest. We should too, using tools like **Calm** for mental recovery.
@@ -319,7 +318,7 @@ My advice? Stick to nutrient-dense, whole foods. If possible, incorporate elemen
 
 ---
 
-### My final takeaway:
+### My final takeaway: 🤗
 # Life is like to squat, find tha balance in your life.
 
 <!--

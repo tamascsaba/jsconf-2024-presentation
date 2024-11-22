@@ -13,10 +13,10 @@ Presenter: **Csaba Tamas**
 > A Sportsman’s Practical Tips for JavaScript Developers
 
 <!--
-こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today.
-My name is Csaba Tamas, Today, I would like to share my real life practical tips
+こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today and give me your 10 minutes attention.
+My name is Csaba Tamas and I would like to share my real life practical tips
 to help you stay fit and code better.
-And don’t worry—I’ve included some JavaScript magic to make it interesting for all of us!
+
  -->
 
 ---
@@ -32,27 +32,29 @@ And don’t worry—I’ve included some JavaScript magic to make it interesting
 
 <!--
 Let me quickly introduce myself.
-👨‍💻 I’m a frontend architect from Hungary 🇭🇺 with more than 10 years of experience, mostly I worked with angular projects, but nowdays I also work with react based technoligies.
-🏋️‍♀️ Outside of coding, I’ve been actively involved in competitive powerlifting and natual bodybuilding.
-Powerlifting is the combination of the main bodybuilding excercises. (squat, deadlift and benchpress).
+👨‍💻 I’m a frontend architect from Hungary 🇭🇺 mostly I working with angular projects, I used lot of web based technoligies, like webcrypto or webassambly..., but today I don't want to talk about tis becouse, 🏋️‍♀️ Outside of coding, I’ve been actively involved in competitive powerlifting and natual bodybuilding.
+
+If you don't know powerlifting is the combination of the main bodybuilding excercises. (squat, deadlift and benchpress).
 
 I can tell I have quite good competition results.
 I rank around the middle of the hungarian leaderboard, with 500kg total.
 
-I’m really passionate about any health related topic. I could talk about them for hours!
+So basicly I’m really passionate about any health related topic. I could talk about it for hours.
 -->
 
 ---
 
 # Why ligthning talk? ⚡️
 
-- It is a JavaScript conference, this topic is not so related to JS world, but I tried to add the maxium amount of developer content to it (dark slides).
-- I try to give you the most of the takeaways what I can
-- I would like to share my own experiances, how I was able to improve my life with some small changes. I hope you will like it. 🤗
+- It is a JavaScript conference, this topic is not so related to JS world. I hope that you will find them useful and you will be able inlcude some tips to your daly routine
+- I try to collect lot if interesting information and studies to give you the most of the takeaways what I can
+- I tried to add the maxium amount of developer content to it (follow dark slides).
 
 <!--
-But today it is "only" kightning talk, but why?
-Because this is a JavaScript conference, and I know not all of you are interested in the topic. But I’ve tried to collect lot of interesting statistics and information.
+But today it is "only" lightning talk, but why?
+Because this is a JavaScript conference, and I know not all of you are interested about fitness, but I hope you can benefit from them and inlcude some tips to your daly routine.
+
+I’ve tried to collect lot of interesting statistics and information.
 
 I would like to share my own experiances, how I was able to improve my life with some small changes.
 
@@ -66,7 +68,7 @@ if you are interedted only JS just follow the dark slides.
 # Slides 🎞️
 - **Marp**: markdown presentation ecosystem from **Yuki Hattori** 🇯🇵
 - It is a powerful TypesSript based framework, that enables you to create stunning slides effortlessly.
-- You can download my slides from  [JSConf.JP](https://jsconf.jp) or scan the QR code
+- You can download my slides fjust scan the QR code
 
 ![bg right:40% width:90%](./img/qr-code.png)
 
@@ -74,7 +76,7 @@ if you are interedted only JS just follow the dark slides.
 
 By the way, these slides are made with Marp, a TypeScript-based framework created by Japanese developer Yuki Hattori.
 
-You can download these slides later from JSConf.JP.
+You can download these slides just scan the QR code.
 -->
 
 ---
@@ -97,12 +99,13 @@ Let’s start with my favorite topic strength.
 Did you know the grip strength of today’s average teenagers is weaker than that of women in the 1970s?
 
 So we became weaker and weaker time by time.
-But why the strength important:
+But what is the problem why it is so important:
 
 A 2020 study found that people with lower strength were 20% more likely to die prematurely.
 Strength improves balance, reduces injuries.
-Strength helps you to live a better quality life. Everything became easier.
-Earlier I had a lot of back problem, but after I started train it became much better.
+Strength helps you to live a better quality life.
+
+So overall everything became easier and you will be able to enjoy more your old ages.
 
  -->
 
@@ -119,6 +122,7 @@ First advice: **Just lift weights.**
 My advice? Just lift weights.
 It doesn’t have to be heavy; consistency is key. You can even start with bodyweight exercises or resistance bands.
 It is not necesary to go the the gym you know one of the acciant sport is the traditional japanese stone lifting.
+
  -->
 
 ---
@@ -127,13 +131,17 @@ It is not necesary to go the the gym you know one of the acciant sport is the tr
 Adjustable kettlebell
 From: 3,4-18kg
 
-<!-- If you’re looking for a simple tool to get started, try adjustable kettlebells. They’re compact, versatile, and perfect for a quick home workout. As developers, efficiency matters, and this is the Swiss Army knife of fitness equipment, you can reach the maximum performance what you need. -->
+<!-- If you’re looking for a simple tool to get started, try adjustable kettlebells. They’re compact, and perfect for a quick home workout. As developers, efficiency matters, and this is the Swiss Army knife of fitness equipment, you can reach the maximum performance what you need.
+
+So lets grip a kettlebell and write a JavaScript for this!
+
+ -->
 
 ---
 <!-- _class: invert -->
-# How to calculate your maximum performance with JS
+## Did you know how it is possible to estimate your maximum performance with JavaScript
 ```javascript
-const weight = 100; // Weight in kg
+const weight = 100; // Used weight in kg
 const reps = 5; // Repetitions
 
 function calculate1RM(weight, reps) {
@@ -158,6 +166,16 @@ console.log(calculate1RM(weight, reps));
 /*
 ```
 
+<!--
+
+Let's use our most important muscle which is our brain.
+
+I prefer the first epley method it is quite good for benchpresses.
+
+As you can see I live in the browsers, right? Let's see what's outside of it..
+
+-->
+
 ---
 
 # Perfect workstation for perfect performance 💪
@@ -176,7 +194,11 @@ console.log(calculate1RM(weight, reps));
 The right side this is my workstation. As you can see I using a standing table with a walking pad.
 It is really important to setup the proper desk and monitor height of the to make it comfortable.
 
-The best if the monitor center is front of you eyes and you can lie your fingers to the keyboard.
+Sunlight lamp is also affects your mood, therefore your performance.
+
+The best if the monitor center is front of you eyes and you can lie your fingers to the keyboard (90 degree angle)
+
+Lets talk about an other important thing
 
  -->
 
@@ -227,13 +249,15 @@ setInterval(() => {
 }, 60 * 60 * 1000);
 ```
 
+<!--  and let's move on and talk about the the unsung hero of productivity. -->
+
 ---
 
 # The power of deep sleep. 🚀
 
-> Sleep deprivation affects memory, focus, and productivity. One sleepless night reduces cognitive performance by up to 30% (*Nature*).
+> Sleep deprivation affects memory, focus, and productivity. One sleepless night reduces cognitive performance by up to 30% -> [Nature](https://www.nature.com/articles/s41598-021-00188-8).
 
-> Developers sleeping 7–8 hours are 29% more productive than those with less than 6 hours (*Sleep Foundation*).
+> Developers sleeping 7–8 hours are 29% more productive than those with less than 6 hours -> [Sleep Foundation](https://www.sleepfoundation.org/sleep-hygiene/good-sleep-and-job-performance).
 
 ### Track and optimize sleep patterns
 I can tell athletes need 8–9 hours per night for optimal recovery.
@@ -241,55 +265,27 @@ Developers benefit similarly for focus and creativity, but not only the quantity
 It is really important to take time in deep sleep (stage 3) without disturb it.
 
 <!--
-Sleep is the unsung hero of productivity. I need 8–10 hours of sleep for recovery.
+Personaly I need 8–9 hours of sleep for recovery.
 Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30%.
 
 Use apps like SleepCycle to track your sleep. Prioritize quality over quantity to wake up refreshed and focused.
+
+And what whas the biggest improvment related to my sleep.
  -->
 
 ---
 
-# How can I improve my sleep quality?: 📈
+# How can I improve my sleep quality? 📈
 Do not use the default alarm clock. Instead use **SleepCycle**  or any other app to track and analyze sleep data.
 
----
-
-# Let's take a look at one of the biggest health issues in Japan 🇯🇵
-## Overwork and Burnout 🔥
-
-> In the tech industry in Japan, 57% of developers report working more than 8 hours daily, leading to burnout (*Stack Overflow Developer Survey*).
-
-> Burnout rates among developers have increased by 18% in the last five years (*Gallup Workplace Study, 2023*).
-
-> Overwork increases the risk of depression by 60% (*Journal of Occupational Health*).
-
-<!--
-Japan’s culture of overwork has led to burnout becoming a significant issue. 57% of developers here work more than 8 hours a day, and burnout rates have increased by 18% in five years.
-I can tell I was also affected, but after the sport became really importent in my life the prorization changed and the sports mentality helped me.to solve this issue.
-
--->
-
----
-
-## How sports mentality solves this: 🧘🏻
-1. **Set clear goals**: Like athletes, prioritize measurable daily goals and set boundaries for work hours.
-2. **Consistency, not intensity**:  I learnt to use structured techniques like Pomodoro.
-3. **Prioritize recovery**: I learnt invest in rest. We should too, using tools like **Calm** for mental recovery.
-5. **Think long-term**: Life is a marathon not a marathon. We should focus on sustainable long-term growth.
-
-<!--
-Set clear goals: Prioritize what matters.
-Maintain consistency: Sustainable habits beat sporadic sprints.
-Value recovery: Rest isn’t optional—it’s essential.
-Work as a team: Share the workload and support each other.
--->
+<!-- Almostour last topic, but it is part of all the healt related presentaion -->
 
 ---
 # Food 🍜
-> The Japanese diet is linked to a 15% lower risk of early death compared to Western diets (*BMJ, 2016*).
+> The Japanese diet is linked to a 15% lower risk of early death compared to Western diets -> [BMJ, 2016](https://www.bmj.com/content/352/bmj.i1209).
 
-> Japan has one of the highest life expectancies globally (85 years) due to its nutrient-rich traditional meals (*WHO, 2023*).
 
+<br>
 <br>
 
 **Just eat your traditional meals.**
@@ -302,6 +298,23 @@ The Japanese diet is a global benchmark for health.
 My advice? Stick to nutrient-dense, whole foods. If possible, incorporate elements of the Japanese diet into your routine.
  -->
 
+---
+
+# But let's take a look at one of the biggest health issues in Japan 🇯🇵
+## Overwork and Burnout 🔥
+
+> In the tech industry in Japan, 57% of developers report working more than 8 hours daily, leading to burnout -> [Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/).
+
+> Burnout rates among developers have increased by 18% in the last five years -> [Gallup Workplace Study, 2023](https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx).
+
+> Overwork increases the risk of depression by 60% -> [Journal of Occupational Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC6617405/).
+
+<!--
+Japan’s culture of overwork has led to burnout becoming a significant issue. 57% of developers here work more than 8 hours a day, and burnout rates have increased.
+
+Too much work causes burnout, reducing performance and productivity.
+
+-->
 ---
 
 ### My final takeaway: 🤗
@@ -325,5 +338,5 @@ Here’s my final takeaway: Life is like a squat—it’s about balance. Balanci
 
 Árigatō Gozájmász
 
-Thank you all for listening! Remember, taking care of your health isn’t just a personal investment—it’s a professional one too. I’m happy to answer any questions you have.
+Thank you all for listening! I’m happy to answer any questions you have.
 -->

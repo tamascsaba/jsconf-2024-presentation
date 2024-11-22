@@ -79,20 +79,6 @@ You can download these slides later from JSConf.JP.
 
 ---
 
-<!-- _class: invert -->
-
-# <!--fit --> MarpAI.app
-Feel free to [join](https://github.com/tamascsaba/marpai-app) if you are interedted.
-
-![bg right:40% height:100](./img/marp-dark.png)
-
-<!--
-
-I have just started to develop project which is an online presentation editor based on Mar.
--->
-
----
-
 # Let's start with my favorite topic: STRENGTH 🏋️‍♀️
 > The average grip strength of **women** from the **1970s** is comparable to that of **teeneager boys today**.
 

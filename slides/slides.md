@@ -59,19 +59,20 @@ This is a beginner-level presentation, so I won't be diving into complex topics 
 
 I’ve tried to collect lot of interesting statistics and information.
 
-I would like to share my own experiances, how I was able to improve my life with some small changes.
-
 My goal is to give you as many takeaways as I can,
 if you are interedted only JS just follow the dark slides.
+
+I would like to share my own experiances, how I was able to improve my life with some small changes.
+
 -->
 
 ---
 <!-- _class: invert -->
 
 # Slides 🎞️
+- You can download my slides just scan the QR code
 - **Marp**: markdown presentation ecosystem from **Yuki Hattori** 🇯🇵
 - It is a powerful TypesSript based framework, that enables you to create stunning slides effortlessly.
-- You can download my slides fjust scan the QR code
 
 ![bg right:40% width:90%](./img/qr-code.png)
 
@@ -142,7 +143,7 @@ So lets grip a kettlebell and write a JavaScript for this!
 
 ---
 <!-- _class: invert -->
-## Did you know how it is possible to estimate your maximum performance with JavaScript
+## Did you know how it is possible to estimate your maximum performance with JavaScript?
 ```javascript
 const weight = 100; // Used weight in kg
 const reps = 5; // Repetitions
@@ -271,8 +272,6 @@ It is really important to take time in deep sleep (stage 3) without disturb it.
 Personaly I need 8–9 hours of sleep for recovery.
 Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30%.
 
-Use apps like SleepCycle to track your sleep. Prioritize quality over quantity to wake up refreshed and focused.
-
 And what whas the biggest improvment related to my sleep.
  -->
 
@@ -281,7 +280,10 @@ And what whas the biggest improvment related to my sleep.
 # How can I improve my sleep quality? 📈
 Do not use the default alarm clock. Instead use **SleepCycle**  or any other app to track and analyze sleep data.
 
-<!-- Almostour last topic, but it is part of all the healt related presentaion -->
+<!--
+Use apps like SleepCycle to track your sleep. Prioritize quality over quantity to wake up refreshed and focused.
+
+ Almostour last topic, but it is part of all the health related presentaion -->
 
 ---
 # Food 🍜
@@ -299,6 +301,8 @@ Do not use the default alarm clock. Instead use **SleepCycle**  or any other app
 The Japanese diet is a global benchmark for health.
 
 My advice? Stick to nutrient-dense, whole foods. If possible, incorporate elements of the Japanese diet into your routine.
+
+Perfect ratio of macro and micro nutrients.
  -->
 
 ---

@@ -47,12 +47,15 @@ So basicly I’m really passionate about any health related topic. I could talk 
 # Why ligthning talk? ⚡️
 
 - It is a JavaScript conference, this topic is not so related to JS world. I hope that you will find them useful and you will be able inlcude some tips to your daly routine
+- This is a beginner-level presentation, so I won't be diving into complex topics like circadian rhythms or other deep details.
 - I try to collect lot if interesting information and studies to give you the most of the takeaways what I can
 - I tried to add the maxium amount of developer content to it (follow dark slides).
 
 <!--
 But today it is "only" lightning talk, but why?
 Because this is a JavaScript conference, and I know not all of you are interested about fitness, but I hope you can benefit from them and inlcude some tips to your daly routine.
+
+This is a beginner-level presentation, so I won't be diving into complex topics like circadian rhythms or other deep details.
 
 I’ve tried to collect lot of interesting statistics and information.
 

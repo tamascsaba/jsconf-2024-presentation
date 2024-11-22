@@ -14,7 +14,7 @@ Presenter: **Csaba Tamas**
 
 <!--
 こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today.
-My name is Csaba Tamas, Today, I would like to share my real life practical advices
+My name is Csaba Tamas, Today, I would like to share my real life practical tips
 to help you stay fit and code better.
 And don’t worry—I’ve included some JavaScript magic to make it interesting for all of us!
  -->
@@ -68,7 +68,7 @@ if you are interedted only JS just follow the dark slides.
 - It is a powerful TypesSript based framework, that enables you to create stunning slides effortlessly.
 - You can download my slides from  [JSConf.JP](https://jsconf.jp)
 
-![bg right:40% height:100](./img/marp-dark.png)
+![bg right:40% width:90%](./img/qr-code.png)
 
 <!--
 
@@ -82,7 +82,7 @@ You can download these slides later from JSConf.JP.
 <!-- _class: invert -->
 
 # <!--fit --> MarpAI.app
-Feel free to join if you are interedted.
+Feel free to [join](https://github.com/tamascsaba/marpai-app) if you are interedted.
 
 ![bg right:40% height:100](./img/marp-dark.png)
 

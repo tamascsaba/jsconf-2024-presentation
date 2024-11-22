@@ -10,7 +10,7 @@ paginate: true
 ## Stay fit 💪 Code better 🧑‍💻
 Presenter: **Csaba Tamas**
 
->  A sportsman’s real life practical advices for JavaScript Developers
+> A Sportsman’s Practical Tips for JavaScript Developers
 
 <!--
 こんにちは, (ko-n-ni-csi-va) everyone! Thank you for joining me today.
@@ -199,18 +199,18 @@ The best if the monitor center is front of you eyes and you can lie your fingers
 
 #  How much is the ideal breaks? ⏰
  Ideal break :
-  - For eyes: Every 20 minutes you should have a break and for 20 secounds 20 feet away, like looking out of the window
+  - For eyes: Every 20 minutes you should have a break and for 20 secounds 20 meter away, like looking out of the window
   - Take a 5-10 minute break every hour to stretch, walk around, hydrate, or simply relax your mind.
 
  Use break reminder apps like:
  -  Time Out, Breaktimer,  Pandan, Zenbreak, Breather, TotalPause or Stretchly
 
-**Small, consistent recovery breaks = Better performance in the long run!**
+**Small, consistent breaks = Better performance!**
 
 <!--
 Screen time takes a toll on your eyes. 70% of tech workers experience symptoms of Computer Vision Syndrome, including headaches and dry eyes.
 
-Here’s my 4th tip: Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds. For overall health, take a 5-10 minute break every hour.
+ Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds. For overall health, take a 5-10 minute break every hour.
 -->
 
 ---
@@ -251,12 +251,12 @@ setInterval(() => {
 > Developers sleeping 7–8 hours are 29% more productive than those with less than 6 hours (*Sleep Foundation*).
 
 ### Track and optimize sleep patterns
-Athletes need 8–10 hours per night for optimal recovery.
+I can tell athletes need 8–9 hours per night for optimal recovery.
 Developers benefit similarly for focus and creativity, but not only the quantity is important.
-It is really important to take time in deep sleep (stage 3) and not to stop it.
+It is really important to take time in deep sleep (stage 3) without disturb it.
 
 <!--
-Sleep is the unsung hero of productivity. Athletes need 8–10 hours of sleep for recovery, and developers benefit similarly.
+Sleep is the unsung hero of productivity. I need 8–10 hours of sleep for recovery.
 Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30%.
 
 Use apps like SleepCycle to track your sleep. Prioritize quality over quantity to wake up refreshed and focused.
@@ -267,6 +267,7 @@ Use apps like SleepCycle to track your sleep. Prioritize quality over quantity t
 # How can I improve my sleep quality?:
 Do not use the default alarm clock. Instead use **SleepCycle**  or any other app to track and analyze sleep data.
 
+---
 
 # Let's take a look at one of the biggest health issues in Japan 🇯🇵
 ## Overwork and Burnout 🔥
@@ -279,23 +280,24 @@ Do not use the default alarm clock. Instead use **SleepCycle**  or any other app
 
 <!--
 Japan’s culture of overwork has led to burnout becoming a significant issue. 57% of developers here work more than 8 hours a day, and burnout rates have increased by 18% in five years.
+I can tell I was also affected, but after the sport became really importent in my life the prorization changed and the sports mentality helped me.to solve this issue.
 
-How do we tackle this? Sports teach us to:
-
-Set clear goals: Prioritize what matters.
-Maintain consistency: Sustainable habits beat sporadic sprints.
-Value recovery: Rest isn’t optional—it’s essential.
-Work as a team: Share the workload and support each other.
 -->
 
 ---
 
 ## How sports mentality solves this:
 1. **Set clear goals**: Like athletes, prioritize measurable daily goals and set boundaries for work hours.
-2. **Consistency, not intensity**:  Use structured techniques like Pomodoro.
-3. **Prioritize recovery**: Athletes invest in rest. We should too, using tools like **Calm** for mental recovery.
+2. **Consistency, not intensity**:  I learnt to use structured techniques like Pomodoro.
+3. **Prioritize recovery**: I learnt invest in rest. We should too, using tools like **Calm** for mental recovery.
 5. **Think long-term**: Life is a marathon not a marathon. We should focus on sustainable long-term growth.
 
+<!--
+Set clear goals: Prioritize what matters.
+Maintain consistency: Sustainable habits beat sporadic sprints.
+Value recovery: Rest isn’t optional—it’s essential.
+Work as a team: Share the workload and support each other.
+-->
 
 ---
 # Food 🍜

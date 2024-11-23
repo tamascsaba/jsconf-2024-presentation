@@ -78,9 +78,11 @@ I would like to share my own experiances, how I was able to improve my life with
 
 <!--
 
+If you are interested about the studies, statistics you can download these slides just scan the QR code.
+
 By the way, these slides are made with Marp, a TypeScript-based framework created by Japanese developer Yuki Hattori.
 
-You can download these slides just scan the QR code.
+
 -->
 
 ---
@@ -221,7 +223,9 @@ Lets talk about an other important thing
 <!--
 Screen time takes a toll on your eyes. 70% of tech workers experience symptoms of Computer Vision Syndrome, including headaches and dry eyes.
 
- Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds. For overall health, take a 5-10 minute break every hour.
+ Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds.
+
+ For overall health, take a 5-10 minute break every hour.
 -->
 
 ---
@@ -269,8 +273,8 @@ Developers benefit similarly for focus and creativity, but not only the quantity
 It is really important to take time in deep sleep (stage 3) without disturb it.
 
 <!--
-Personaly I need 8–9 hours of sleep for recovery.
-Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30%.
+Personaly I need 8–9 (eight-nine) hours of sleep for recovery, but not the quantity menters.
+Deep sleep, in particular, helps consolidate memory and repair the body. Skipping it reduces cognitive performance by up to 30% (fourteen).
 
 And what whas the biggest improvment related to my sleep.
  -->
@@ -328,7 +332,7 @@ Too much work causes burnout, reducing performance and productivity.
 # Life is like to squat, find tha balance in your life.
 
 <!--
-Here’s my final takeaway: Life is like a squat—it’s about balance. Balancing mobility and stability is key in both sports and life. Similarly, balancing work and health leads to sustainable success.
+Here’s my final takeaway: Life is like a squat—it’s about balance. This is the both sports and life. Similarly, balancing work and health leads to the success.
 -->
 
 ---

@@ -102,7 +102,7 @@ By the way, these slides are made with Marp, a TypeScript-based framework create
 <!--
 Let’s start with my favorite topic strength.
 
-Did you know the grip strength of today’s average teenagers is weaker than that of women in the 1970s?
+Did you know the grip strength of today’s average teenagers is weaker than that of women in the 1970s? (seventys)
 
 So we became weaker and weaker time by time.
 But what is the problem why it is so important:
@@ -174,6 +174,8 @@ console.log(calculate1RM(weight, reps));
 
 <!--
 
+Did you know how it is possible to estimate your maximum performance with JavaScript?
+
 Let's use our most important muscle which is our brain.
 
 I prefer the first epley method it is quite good for benchpresses.
@@ -221,7 +223,7 @@ Lets talk about an other important thing
 **Small, consistent breaks = Better performance!**
 
 <!--
-Screen time takes a toll on your eyes. 70% of tech workers experience symptoms of Computer Vision Syndrome, including headaches and dry eyes.
+Screen time takes a toll on your eyes. 70% (seventy) of tech workers experience symptoms of Computer Vision Syndrome, including headaches and dry eyes.
 
  Use break reminder apps like Time Out or Stretchly. The 20-20-20 rule works wonders: Every 20 minutes, look 20 meters away for 20 seconds.
 
@@ -329,7 +331,7 @@ Too much work causes burnout, reducing performance and productivity.
 ---
 
 ### My final takeaway: 🤗
-# Life is like to squat, find tha balance in your life.
+# Life is like to squat, find the balance in your life.
 
 <!--
 Here’s my final takeaway: Life is like a squat—it’s about balance. This is the both sports and life. Similarly, balancing work and health leads to the success.
